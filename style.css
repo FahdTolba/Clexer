@@ -1,0 +1,21 @@
+body{
+ background-color: black;
+ background-image: url("");
+ background-size: 100%;
+ background-attachment: fixed;
+ background-repeat:repeat-x ; 
+}
+
+h1{
+ text-align: center;
+ text-align: center;
+ color: #008080;	
+}
+table{
+ align: center;
+ text-align: center; 
+ color: #008080;
+ font-size: 20px;
+ font-style: italic;
+}
+

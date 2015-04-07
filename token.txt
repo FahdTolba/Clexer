@@ -1,0 +1,24 @@
+/*Tokens recognized by Clexer*/
+
+//Initial version
+
+Keywords
+	loops:	for while
+	conditional: if switch
+	endif:	else
+	definition: char short int
+
+Punctuation
+; ( ) { } : # %' [ ]
+
+Arithop
++ - * /
+
+Relop
+== != > < >= <=
+
+Cmp
+|| &&
+
+Bitwise
+& |
